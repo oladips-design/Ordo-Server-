@@ -1,7 +1,7 @@
 {
-  "name": "create-nodejs-express-app",
+  "name": "ordo",
   "version": "1.7.0",
-  "description": "Create a Node.js app for building production-ready RESTful APIs using Express, by running one command",
+  "description": "server side for ordo",
   "bin": "bin/createNodejsApp.js",
   "main": "src/index.js",
   "repository": "https://github.com/hagopj13/node-express-boilerplate.git",
